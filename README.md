@@ -7,6 +7,10 @@
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JamesLovern&hide=prs&show_icons=true)
+
+---
+
 **📊 ~ This week I spent my time on.**
 <!--START_SECTION:waka-->
 ```text
@@ -17,7 +21,3 @@ Python       3 mins          █░░░░░░░░░░░░░░░░
 JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
 ```
 <!--END_SECTION:waka-->
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JamesLovern&hide=prs&show_icons=true)
