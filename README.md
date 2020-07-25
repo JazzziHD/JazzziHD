@@ -5,7 +5,7 @@
 - 💬 Ask me about anything related to Python.
 - 📫 How to reach me: [james@lovern.io](mailto:james@lovern.io)
 
-📊 ** ~ This week I spent my time on **
+📊 **~ This week I spent my time on.**
 <!--START_SECTION:waka-->
 ```text
 Other        23 mins         ███████████░░░░░░░░░░░░░░   45.91 % 
