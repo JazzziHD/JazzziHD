@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Javascript**.
 - 💬 Ask me about anything related to **Python**.
-- 📫 How to reach me: **[james@lovern.io](https://lovern.io/)**
+- 📫 How to reach me: **[james@lovern.io](mailto:james@lovern.io)**
 
 ---
 
