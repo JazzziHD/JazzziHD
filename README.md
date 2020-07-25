@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently leaning Javascript.
 - 💬 Ask me about anything related to Python.
-- 📫 How to reach me: [james@lovern.io](mailto:james@lovern.io)
+- 📫 How to reach me: [james@lovern.io](https://lovern.io/)
 
 **📊 ~ This week I spent my time on.**
 <!--START_SECTION:waka-->
