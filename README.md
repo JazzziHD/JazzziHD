@@ -1,7 +1,12 @@
-### 👋 ~ Hi there, I'm James, and welcome to my GitHub Profile!
+<h2 align="center">👋 ~ Hey there, I'm James!</h2>
+<p align="center">
+  <a href="https://lovern.io/">Portfolio</a> •
+  <a href="https://twitter.com/__jameslovern">Twitter</a>
+</p>
+
 💻 ~ I'm a Self Taught Freelance Developer and Graphic Designer, feel free to check out what I'm working on!
 
-- 🌱 I’m currently leaning Javascript.
+- 🌱 I’m currently learning Javascript.
 - 💬 Ask me about anything related to Python.
 - 📫 How to reach me: [james@lovern.io](https://lovern.io/)
 
