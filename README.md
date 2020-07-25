@@ -20,4 +20,4 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JamesLovern&hide=prs&show_icons=true&theme=cobalt)]
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JamesLovern&hide=prs&show_icons=true)
