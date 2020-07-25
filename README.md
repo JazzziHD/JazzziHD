@@ -6,9 +6,9 @@
 
 💻 ~ I'm a Self Taught Freelance Developer and Graphic Designer, feel free to check out what I'm working on!
 
-- 🌱 I’m currently learning Javascript.
-- 💬 Ask me about anything related to Python.
-- 📫 How to reach me: [james@lovern.io](https://lovern.io/)
+- 🌱 I’m currently learning **Javascript**.
+- 💬 Ask me about anything related to **Python**.
+- 📫 How to reach me: **[james@lovern.io](https://lovern.io/)**
 
 ---
 
