@@ -12,7 +12,7 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JamesLovern&hide=prs&show_icons=true)
+![GitHub Stats](https://github-readme-stats.jazzzihd.vercel.app/api?username=JamesLovern&hide=prs&show_icons=true)
 
 ---
 
