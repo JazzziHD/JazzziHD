@@ -30,4 +30,5 @@ HTML         12 mins         ▓░░░░░░░░░░░░░░░░
 ---
 
 **🎶 ~ What I'm listening to:**
+<br>
 [![Spotify](https://spotify-readme-stats.jazzzihd.vercel.app/api/spotify)](https://open.spotify.com/user/james.lovern)
