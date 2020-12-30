@@ -13,7 +13,7 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.jazzzihd.vercel.app/api?username=JamesLovern&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.jazzzihd.vercel.app/api?username=JamesLovern&theme=material-palenight&show_icons=true&count_private=true)
 
 ---
 
