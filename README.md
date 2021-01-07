@@ -7,7 +7,7 @@
 
 💻 ~ I'm a Self Taught Freelance Developer and Graphic Designer, feel free to check out what I'm working on!
 
-- 🌱 ~ I’m currently learning **Javascript**.
+- 🌱 ~ I’m currently learning **JS, Node + Electron**.
 - 💬 ~ Ask me about anything related to **Python**.
 - 📫 ~ How to reach me: **[james@lovern.io](mailto:james@lovern.io)**
 
