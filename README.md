@@ -5,9 +5,9 @@
   <a href="https://keybase.io/JamesLovern">Keybase</a>
 </p>
 
-💻 ~ I'm a Self Taught Freelance Developer and Graphic Designer, feel free to check out what I'm working on!
+💻 ~ I'm a Self Taught Software Developer and Student located in the UK, feel free to check out what I'm working on!
 
-- 🌱 ~ I’m currently learning **JS, Node + Electron**.
+- 🌱 ~ I’m currently learning **JS, Node + TypeScript**.
 - 💬 ~ Ask me about anything related to **Python**.
 - 📫 ~ How to reach me: **[hey@lovern.io](mailto:hey@lovern.io)**
 
