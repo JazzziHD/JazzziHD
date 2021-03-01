@@ -9,7 +9,7 @@
 
 - 🌱 ~ I’m currently learning **JS, Node + Electron**.
 - 💬 ~ Ask me about anything related to **Python**.
-- 📫 ~ How to reach me: **[james@lovern.io](mailto:james@lovern.io)**
+- 📫 ~ How to reach me: **[hey@lovern.io](mailto:hey@lovern.io)**
 
 ---
 
